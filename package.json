@@ -21,7 +21,7 @@
     "express-openapi-validator": "^4.12.4",
     "fast-glob": "^3.2.5",
     "lodash": "^4.17.21",
-    "markdown-it": "^12.0.6",
+    "markdown-it": "^13.0.2",
     "pascal-case": "^3.1.2",
     "require-glob": "^3.2.0",
     "require-yml": "^2.0.0",
